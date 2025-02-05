@@ -1,104 +1,103 @@
-# ✈ British Airways Data Science Project  
+# ✈ **British Airways Data Science Project**  
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
 
+---
 
-## 📌 Overview  
-This project is a **Data Science Case Study** focused on analyzing **customer reviews and predicting booking behavior** for British Airways. The project consists of **two key tasks**:
+## 📌 **Overview**  
+This **Data Science Case Study** focuses on analyzing **customer reviews** and predicting **booking behavior** for **British Airways**. The project includes the following **key tasks**:
 
 - **Task 1: Web Scraping & Sentiment Analysis**  
-  - Scrape customer reviews from **Skytrax** using **web scraping techniques**.  
-  - Analyze **positive and negative sentiment trends** using **NLP techniques**.  
-  - Visualize customer feedback insights with **word clouds & sentiment distribution charts**.
+  - Scrape **customer reviews** from **Skytrax** using web scraping techniques.  
+  - Perform **sentiment analysis** using **NLP techniques** to classify feedback into **positive** and **negative** sentiments.  
+  - Visualize the findings using **word clouds** and **sentiment distribution charts**.
 
 - **Task 2: Predicting Customer Booking Behavior**  
-  - Train a **machine learning model** to predict **whether a customer will book a flight**.  
-  - Identify key factors influencing **customer purchasing decisions**.  
-  - Provide **data-driven recommendations** to improve British Airways' marketing strategies.
+  - Train a **machine learning model** to predict **flight booking behavior**.  
+  - Identify the **key factors** influencing **customer booking decisions**.  
+  - Provide **data-driven recommendations** to optimize British Airways' **marketing strategies**.
 
-🔹 **Tech Stack:** Python, BeautifulSoup, Scikit-learn, NLP, Machine Learning, Matplotlib, Seaborn  
-🔹 **Project Type:** Data Science & Business Intelligence  
-🔹 **Business Impact:** Understanding customer sentiment & optimizing booking trends  
-
----
-
-# 🛠 Task 1: Web Scraping & Sentiment Analysis
-
-## 🔹 Objective  
-Extract and analyze customer reviews from Skytrax to assess passenger satisfaction levels.
-
-## 🔹 Techniques Used  
-✔ **Web Scraping** (BeautifulSoup & Requests)  
-✔ **Text Preprocessing** (Stopword Removal, Tokenization)  
-✔ **Sentiment Analysis** (VADER Sentiment Scoring)  
-✔ **Word Cloud & Text Frequency Analysis**  
-
-## 🔹 Key Findings  
-- **Most positive reviews** highlighted "friendly staff," "good service," and "smooth check-ins."  
-- **Common complaints** included "flight delays," "lost baggage," and "poor customer support."  
-- **Sentiment trends** revealed that **negative reviews peaked during peak travel seasons.**  
-
-## 📊 Visualizations  
-✅ **Word Cloud for Frequent Terms in Reviews**  
-✅ **Sentiment Distribution Chart**  
-✅ **Bar Graph of Positive vs Negative Reviews**  
-
+🔹 **Tech Stack**: Python, BeautifulSoup, Scikit-learn, NLP, Machine Learning, Matplotlib, Seaborn  
+🔹 **Project Type**: Data Science & Business Intelligence  
+🔹 **Business Impact**: Gaining insights into **customer sentiment** and **optimizing booking patterns** for improved marketing and customer satisfaction.
 
 ---
 
-# 🛠 Task 2: Predicting Customer Booking Behavior
+## 🛠 **Task 1: Web Scraping & Sentiment Analysis**
 
-## 🔹 Objective  
-Train a **Machine Learning Model** to predict whether a customer **will book a flight**.
+### 🔹 **Objective**  
+- **Extract and analyze** customer reviews from **Skytrax** to assess **passenger satisfaction levels**.
 
-## 🔹 Techniques Used  
-✔ **Data Cleaning & Feature Engineering**  
-✔ **Categorical Encoding & Handling Imbalanced Data**  
-✔ **Model Training** (Random Forest Classifier)  
-✔ **Performance Evaluation** (Precision, Recall, ROC-AUC Score)  
+### 🔹 **Techniques Used**  
+- Web Scraping using **BeautifulSoup** and **Requests**  
+- **Text Preprocessing**: Stopword Removal, Tokenization  
+- **Sentiment Analysis** using **VADER Sentiment Scoring**  
+- **Word Cloud** & **Text Frequency Analysis**
 
-## 🔹 Key Findings  
-- **Customers preferred round trips over one-way flights.**  
-- **Sales channel & booking origin significantly impacted booking probability.**  
-- **Peak travel months influenced booking decisions.**  
+### 🔹 **Key Findings**  
+- **Positive Reviews**: Frequent mentions of "friendly staff," "good service," and "smooth check-ins."  
+- **Common Complaints**: Issues with "flight delays," "lost baggage," and "poor customer support."  
+- **Sentiment Trends**: Negative reviews peaked during **peak travel seasons**.  
 
-## 📊 Visualizations  
-✅ **Feature Importance Graph**  
-✅ **Booking Trends Over Time**  
-✅ **Monthly Customer Purchase Patterns**  
-
+### 📊 **Visualizations**  
+- **Word Cloud** for frequent terms in reviews.  
+- **Sentiment Distribution** (Positive vs Negative).  
+- **Bar Graph** of positive vs negative reviews.
 
 ---
 
-# 📊 Business Insights & Recommendations
+## 🛠 **Task 2: Predicting Customer Booking Behavior**
 
-### 1️⃣ Key Insights
+### 🔹 **Objective**  
+- **Train a machine learning model** to predict whether a customer **will book a flight**.
 
-✔ Customer sentiment fluctuates based on travel seasons.
-✔ Negative reviews are dominated by flight delays & lost baggage issues.
-✔ Online bookings perform better than offline bookings.
-✔ Trip type (round-trip vs one-way) is a major factor in booking behavior.
+### 🔹 **Techniques Used**  
+- **Data Cleaning** & **Feature Engineering**  
+- **Categorical Encoding** & **Handling Imbalanced Data**  
+- **Model Training** using **Random Forest Classifier**  
+- **Performance Evaluation** using **Precision, Recall, and ROC-AUC Score**
 
-### 🔹 Business Recommendations
+### 🔹 **Key Findings**  
+- **Booking Preferences**: Customers preferred **round trips** over **one-way flights**.  
+- **Key Factors**: Sales channel and booking origin significantly impacted booking probability.  
+- **Travel Behavior**: **Peak travel months** influenced booking decisions.
 
-✅ Enhance Baggage Tracking & Handling Services
-✅ Improve Customer Support & Delay Compensation Policies
-✅ Adjust Pricing Strategies for Peak & Off-Peak Seasons
-✅ Leverage Customer Feedback to Improve Brand Perception
+### 📊 **Visualizations**  
+- **Feature Importance** graph.  
+- **Booking Trends Over Time**.  
+- **Monthly Customer Purchase Patterns**.
 
+---
 
-# 🔧 Technologies Used
+## 📊 **Business Insights & Recommendations**
 
-✔ Python
-✔ BeautifulSoup, Requests (Web Scraping)
-✔ Pandas, NumPy (Data Processing)
-✔ Matplotlib, Seaborn (Visualization)
-✔ Scikit-learn (Machine Learning)
-✔ NLTK, VADER (Natural Language Processing)
+### 🔹 **Key Insights**  
+- Customer sentiment fluctuates based on **seasonal travel patterns**.  
+- **Negative reviews** are primarily related to **flight delays** and **lost baggage issues**.  
+- **Online bookings** outperform **offline bookings** in conversion rates.  
+- **Round-trip bookings** are more common than one-way.
 
+### 🔹 **Business Recommendations**  
+- **Enhance baggage tracking** and **handling services** to minimize customer complaints.  
+- Improve **customer support** and **delay compensation policies**.  
+- **Adjust pricing strategies** during **peak travel seasons**.  
+- Leverage customer feedback to **improve brand perception** and increase satisfaction.
 
-# 📬 Contact
+---
 
-👤 Your Name
-📧 Email: your.email@example.com
-🔗 LinkedIn
-📂 Portfolio
+## 🔧 **Technologies Used**
+
+- **Python**  
+- **BeautifulSoup, Requests** (Web Scraping)  
+- **Pandas, NumPy** (Data Processing)  
+- **Matplotlib, Seaborn** (Data Visualization)  
+- **Scikit-learn** (Machine Learning)  
+- **NLTK, VADER** (Natural Language Processing)
+
+---
+
+## 📬 **Contact**
+
+- **Your Name**  
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 🔗 LinkedIn: [your-linkedin](https://www.linkedin.com)  
+- 📂 Portfolio: [your-portfolio](https://www.your-portfolio.com)
