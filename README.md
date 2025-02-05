@@ -69,16 +69,6 @@ Train a **Machine Learning Model** to predict whether a customer **will book a f
 
 ---
 
-# 📂 Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-
-```bash
-git clone https://github.com/yourusername/British-Airways-Data-Science-Project.git
-cd British-Airways-Data-Science-Project
-
---- 
-
 # 📊 Business Insights & Recommendations
 
 ### 1️⃣ Key Insights
