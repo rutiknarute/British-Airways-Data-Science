@@ -42,7 +42,6 @@ Extract and analyze customer reviews from Skytrax to assess passenger satisfacti
 ✅ **Sentiment Distribution Chart**  
 ✅ **Bar Graph of Positive vs Negative Reviews**  
 
-📷 *[View images folder for visualizations](images/)*  
 
 ---
 
@@ -67,7 +66,6 @@ Train a **Machine Learning Model** to predict whether a customer **will book a f
 ✅ **Booking Trends Over Time**  
 ✅ **Monthly Customer Purchase Patterns**  
 
-📷 *[View images folder for visualizations](images/)*  
 
 ---
 
@@ -86,8 +84,35 @@ cd British-Airways-Data-Science-Project
 
 ### 1️⃣ Key Insights
 
+✔ Customer sentiment fluctuates based on travel seasons.
+✔ Negative reviews are dominated by flight delays & lost baggage issues.
+✔ Online bookings perform better than offline bookings.
+✔ Trip type (round-trip vs one-way) is a major factor in booking behavior.
+
+### 🔹 Business Recommendations
+
+✅ Enhance Baggage Tracking & Handling Services
+✅ Improve Customer Support & Delay Compensation Policies
+✅ Adjust Pricing Strategies for Peak & Off-Peak Seasons
+✅ Leverage Customer Feedback to Improve Brand Perception
 
 
+# 🔧 Technologies Used
+
+✔ Python
+✔ BeautifulSoup, Requests (Web Scraping)
+✔ Pandas, NumPy (Data Processing)
+✔ Matplotlib, Seaborn (Visualization)
+✔ Scikit-learn (Machine Learning)
+✔ NLTK, VADER (Natural Language Processing)
+
+
+# 📬 Contact
+
+👤 Your Name
+📧 Email: your.email@example.com
+🔗 LinkedIn
+📂 Portfolio
 
 
 
