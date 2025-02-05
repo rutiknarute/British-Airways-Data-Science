@@ -1,7 +1,7 @@
 # ✈ **British Airways Data Science Project**  
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
 
----
+--
 
 ## 📌 **Overview**  
 This **Data Science Case Study** focuses on analyzing **customer reviews** and predicting **booking behavior** for **British Airways**. The project includes the following **key tasks**:
