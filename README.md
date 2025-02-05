@@ -1,7 +1,6 @@
 # ✈ **British Airways Data Science Project**  
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
 
---
 
 ## 📌 **Overview**  
 This **Data Science Case Study** focuses on analyzing **customer reviews** and predicting **booking behavior** for **British Airways**. The project includes the following **key tasks**:
@@ -20,7 +19,6 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 🔹 **Project Type**: Data Science & Business Intelligence  
 🔹 **Business Impact**: Gaining insights into **customer sentiment** and **optimizing booking patterns** for improved marketing and customer satisfaction.
 
----
 
 ## 🛠 **Task 1: Web Scraping & Sentiment Analysis**
 
@@ -43,7 +41,6 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Sentiment Distribution** (Positive vs Negative).  
 - **Bar Graph** of positive vs negative reviews.
 
----
 
 ## 🛠 **Task 2: Predicting Customer Booking Behavior**
 
@@ -66,7 +63,6 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Booking Trends Over Time**.  
 - **Monthly Customer Purchase Patterns**.
 
----
 
 ## 📊 **Business Insights & Recommendations**
 
@@ -81,8 +77,7 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - Improve **customer support** and **delay compensation policies**.  
 - **Adjust pricing strategies** during **peak travel seasons**.  
 - Leverage customer feedback to **improve brand perception** and increase satisfaction.
-
----
+  
 
 ## 🔧 **Technologies Used**
 
@@ -93,7 +88,6 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Scikit-learn** (Machine Learning)  
 - **NLTK, VADER** (Natural Language Processing)
 
----
 
 ## 📬 **Contact**
 
