@@ -98,6 +98,6 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 ## 📬 **Contact**
 
 - **Your Name**  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 LinkedIn: [your-linkedin](https://www.linkedin.com)  
-- 📂 Portfolio: [your-portfolio](https://www.your-portfolio.com)
+- 📧 Email: rnarute@calstatela.edu
+- 🔗 LinkedIn: https://www.linkedin.com/in/rutik-narute-8256a1221/
+- 📂 Portfolio:
