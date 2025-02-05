@@ -1,7 +1,6 @@
 # ✈ British Airways Data Science Project  
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
 
-![British Airways](images/airways_banner.jpg)
 
 ## 📌 Overview  
 This project is a **Data Science Case Study** focused on analyzing **customer reviews and predicting booking behavior** for British Airways. The project consists of **two key tasks**:
@@ -22,13 +21,70 @@ This project is a **Data Science Case Study** focused on analyzing **customer re
 
 ---
 
-## 🛠 Task 1: Web Scraping & Sentiment Analysis
+# 🛠 Task 1: Web Scraping & Sentiment Analysis
 
-### 🔹 Objective
+## 🔹 Objective  
 Extract and analyze customer reviews from Skytrax to assess passenger satisfaction levels.
 
+## 🔹 Techniques Used  
+✔ **Web Scraping** (BeautifulSoup & Requests)  
+✔ **Text Preprocessing** (Stopword Removal, Tokenization)  
+✔ **Sentiment Analysis** (VADER Sentiment Scoring)  
+✔ **Word Cloud & Text Frequency Analysis**  
+
+## 🔹 Key Findings  
+- **Most positive reviews** highlighted "friendly staff," "good service," and "smooth check-ins."  
+- **Common complaints** included "flight delays," "lost baggage," and "poor customer support."  
+- **Sentiment trends** revealed that **negative reviews peaked during peak travel seasons.**  
+
+## 📊 Visualizations  
+✅ **Word Cloud for Frequent Terms in Reviews**  
+✅ **Sentiment Distribution Chart**  
+✅ **Bar Graph of Positive vs Negative Reviews**  
+
+📷 *[View images folder for visualizations](images/)*  
+
+---
+
+# 🛠 Task 2: Predicting Customer Booking Behavior
+
+## 🔹 Objective  
+Train a **Machine Learning Model** to predict whether a customer **will book a flight**.
+
+## 🔹 Techniques Used  
+✔ **Data Cleaning & Feature Engineering**  
+✔ **Categorical Encoding & Handling Imbalanced Data**  
+✔ **Model Training** (Random Forest Classifier)  
+✔ **Performance Evaluation** (Precision, Recall, ROC-AUC Score)  
+
+## 🔹 Key Findings  
+- **Customers preferred round trips over one-way flights.**  
+- **Sales channel & booking origin significantly impacted booking probability.**  
+- **Peak travel months influenced booking decisions.**  
+
+## 📊 Visualizations  
+✅ **Feature Importance Graph**  
+✅ **Booking Trends Over Time**  
+✅ **Monthly Customer Purchase Patterns**  
+
+📷 *[View images folder for visualizations](images/)*  
+
+---
+
+# 📂 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+
+```bash
+git clone https://github.com/yourusername/British-Airways-Data-Science-Project.git
+cd British-Airways-Data-Science-Project
 
 
+
+
+# 📊 Business Insights & Recommendations
+
+### 1️⃣ Key Insights
 
 
 
