@@ -22,20 +22,10 @@ This project is a **Data Science Case Study** focused on analyzing **customer re
 
 ---
 
-## 📁 Project Structure  
+## 🛠 Task 1: Web Scraping & Sentiment Analysis
 
-```plaintext
-British-Airways-Data-Science-Project/
-│── data/                     # Datasets used for analysis
-│── notebooks/                # Jupyter notebooks for execution
-│── src/                      # Python scripts for automation
-│── images/                   # Visualizations & graphs
-│── results/                  # Summary of findings & presentation
-│── README.md                 # Project documentation
-│── requirements.txt          # Required dependencies
-│── LICENSE                   # Open-source license
-
-
+### 🔹 Objective
+Extract and analyze customer reviews from Skytrax to assess passenger satisfaction levels.
 
 
 
