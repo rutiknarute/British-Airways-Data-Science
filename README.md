@@ -87,6 +87,7 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Matplotlib, Seaborn** (Data Visualization)  
 - **Scikit-learn** (Machine Learning)  
 - **NLTK, VADER** (Natural Language Processing)
+- **Tableau, Power BI** (Power Query, Data Modelling)
 
 
 ## 📬 **Contact**
