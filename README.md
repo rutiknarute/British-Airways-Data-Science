@@ -80,6 +80,10 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - Improve **customer support** and **delay compensation policies**.  
 - **Adjust pricing strategies** during **peak travel seasons**.  
 - Leverage customer feedback to **improve brand perception** and increase satisfaction.
+
+
+### 🔹 **Tableau Dashboard Analysis**
+![Dashboard]()
   
 
 ## 🔧 **Technologies Used**
@@ -91,6 +95,7 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Scikit-learn** (Machine Learning)  
 - **NLTK, VADER** (Natural Language Processing)
 - **Tableau, Power BI** (Power Query, Data Modelling)
+
 
 
 ## 📬 **Contact**
