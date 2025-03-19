@@ -83,7 +83,7 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 
 
 ### 🔹 **Tableau Dashboard Analysis**
-![Dashboard]()
+![Dashboard](https://github.com/rutiknarute/British-Airways-Data-Science/blob/main/Dashboard.jpg)
   
 
 ## 🔧 **Technologies Used**
