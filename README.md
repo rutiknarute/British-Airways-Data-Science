@@ -94,4 +94,4 @@ This **Data Science Case Study** focuses on analyzing **customer reviews** and p
 - **Your Name**  
 - 📧 Email: rnarute@calstatela.edu
 - 🔗 LinkedIn: https://www.linkedin.com/in/rutik-narute-8256a1221/
-- 📂 Portfolio:
+- 📂 Portfolio: https://rutik.vercel.app/
