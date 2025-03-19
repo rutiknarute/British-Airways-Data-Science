@@ -1,5 +1,5 @@
 # ✈ **British Airways Data Science and Analysis**  
-![BA logo]()
+![BA logo](https://github.com/rutiknarute/British-Airways-Data-Science/blob/main/BA%20Logo.jpg)
 
 
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
