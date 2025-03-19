@@ -1,4 +1,7 @@
-# ✈ **British Airways Data Science Project**  
+# ✈ **British Airways Data Science and Analysis**  
+![BA logo]()
+
+
 📊 **Web Scraping | Sentiment Analysis | Predictive Modeling**
 
 
